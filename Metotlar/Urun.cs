@@ -8,6 +8,7 @@ namespace Metotlar
     {
         //Property - özellik
 
+
         public int Id { get; set; }
 
         public string Adi { get; set; }
